@@ -1,5 +1,11 @@
 # 📊 Projet Signature — Analyse e-commerce
 
+## 🌐 Accès au dashboard
+
+https://projet-signature-ecommerce-wu3u3dejpvtbct5pyjfz2u.streamlit.app/
+
+---
+
 ## 🎯 Objectif
 Analyser un dataset réel de ventes e-commerce afin d’identifier les performances commerciales, les clients clés et les tendances dans le temps.
 
